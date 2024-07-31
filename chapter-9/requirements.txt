@@ -1,0 +1,19 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+tensorflow
+torch
+nltk
+spacy
+transformers
+opencv-python
+requests
+beautifulsoup4
+sympy
+plotly
+ipykernel
+tensorflow-addons[tensorflow] #for InstanceNormalization layer was part of the keras-contrib library
+#git+https://github.com/keras-team/keras-contrib.git #keras-contrib archived no actively maintained after integration into tf\keras lib.

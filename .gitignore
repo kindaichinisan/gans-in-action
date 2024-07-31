@@ -17,3 +17,6 @@ Thumbs.db
 .floydexpt
 .floydignore
 floyd.yml
+/chapter-9/datasets
+chapter-9/gan_in_actions.tar.gz
+/chapter-9/images
